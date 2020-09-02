@@ -12,6 +12,8 @@ paymaster/tests.py
 paymaster/urls.py
 paymaster/utils.py
 paymaster/views.py
+paymaster/api/client.py
+paymaster/api/__init__.py
 paymaster/migrations/0001_initial.py
 paymaster/migrations/__init__.py
 paymaster/templates/paymaster/fail.html

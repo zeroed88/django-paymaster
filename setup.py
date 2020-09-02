@@ -19,7 +19,7 @@ setup(
     include_package_data=True,
     packages=['paymaster'],
     package_data={
-        'paymaster': ['migrations/*.py', 'templates/paymaster/*.html']
+        'paymaster': ['api/*.py', 'migrations/*.py', 'templates/paymaster/*.html']
     },
 
     url='https://github.com/scailer/django-paymaster/',
